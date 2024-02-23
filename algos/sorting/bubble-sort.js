@@ -1,3 +1,9 @@
+/*
+How
+iterate entire array put largest item at the last of the array 
+
+*/ 
+
 function bubbleSort(arr) {
     for (let i = 0; i < arr.length; i++) {
         for (let j = 0; j < arr.length - i; j++) {
